@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple_Kalkulator</string>
+    <string name="hasil">Hasil :</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="value_default">0</string>
+    <string name="value_finish">0.0</string>
+</resources>
